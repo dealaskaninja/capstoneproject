@@ -1,0 +1,25 @@
+INSTRUCTIONS
+
+Upon launching the app, users will have the option to provide personal information such as name, age, gender, and disability status, among others. While this information is not mandatory, providing it can significantly enhance the app's ability to assist users effectively. Additionally, users will be prompted to indicate whether they require assistance or if they are offering assistance, such as providing rides to nearby shelters.
+
+Once inside the app, users will be greeted with a map interface displaying their current location along with nearby shelters. By clicking on a shelter icon, users can access detailed information about that specific shelter, including contact details, operational hours, and the availability of beds or rooms.
+
+Shelter4u goes beyond basic shelter information. It provides tailored options for individuals with specific needs, showcasing shelters that cater to physical and mental disabilities, accommodations for couples, spaces for individuals with pets, and more.
+
+The app includes a dedicated section for job openings curated for homeless individuals, aiming to connect them with employment opportunities. Additionally, there's a section to assist those seeking support for drug addiction, alcoholism, and mental health challenges.
+Furthermore, Shelter4u offers a platform for agencies, donors, and compassionate individuals to extend their support. They can post available assistance, services, or donations directly on the app.
+
+For users offering or seeking rides, there's a separate section where a queue system operates. Both drivers and riders are required to provide their information and ID for safety purposes, and location tracking ensures enhanced safety measures for all involved.
+
+Businesses and agencies interested in acquiring tablets for the Shelter 4u program are encouraged to prominently display the app within their establishments, ensuring easy accessibility for individuals seeking assistance. Placing the tablet in a visible and accessible location and affixing a Shelter4u sign or sticker outside the establishment signifies the availability of vital resources for those in need. By showcasing Shelter 4u, businesses and agencies actively contribute to creating an inclusive environment, facilitating connections between individuals experiencing homelessness and essential support resources.
+
+Hardware Requirements for Shelter4u
+
+Shelter4u is designed for various devices, including smartphones, tablets, and computers. It operates on Android 7.0 (Nougat) or later for Android devices and iOS 12 or later for Apple devices. It requires a minimum of 2GB RAM for smooth functionality, ensuring optimal performance for features like the interactive map and resource access.
+
+Tablet Borrowing for Enhanced Accessibility
+For businesses, Shelter4u offers borrowing tablets preloaded with the app. These tablets, meeting specific criteria, include:
+- Operating System: Android 7.0 or higher for Android tablets, iOS 12 or later for iPadOS.
+- Screen Size: Minimum 9.7 inches for enhanced usability.
+- Processor and RAM: Equipped with a powerful processor and a minimum of 2GB RAM for smooth operation.
+
